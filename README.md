@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio v2
+[![Link to Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%E2%9C%A8-skyblue?style=for-the-badge&logo=link)](https://www.nikhilvishwakarma.com/)
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+Welcome to the second version of my portfolio, built with Next.js and Tailwind CSS. This platform serves as a showcase for my skills, work experience, and the projects I have worked on.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Portfolio Preview](https://ik.imagekit.io/vishwakarmanikhil/portfolio-v2/personal-portfolio-V2.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **About Me:** Learn more about who I am, my background, and my passion for web development.
+- **Work Experience:** Explore my professional journey and the roles I've undertaken in the field of web development.
+- **Projects:** Check out the diverse range of projects I have worked on, each with its unique set of challenges and solutions.
+- **Contact Me:** Reach out through LinkedIn, Twitter, or email. I'd love to connect with you!
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
+- **Image Hosting:** [ImageKit](https://imagekit.io/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Dark/Light Mode
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Toggle between day and night modes with the switch button for an enhanced user experience.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## 🚨 **Sharing and Attribution (please read!)**
+
+I've chosen to make this project open source to benefit a wide range of developers for their portfolios or as a learning resource. My intention is to encourage collaboration and provide a resource for those looking to expand their skills.
+
+## Usage Guidelines
+
+1. **Open for Learning:**
+   Feel free to use this codebase for educational purposes, whether it's for learning new technologies or enhancing your development skills.
+
+2. **Portfolio Usage:**
+   Integrate this project into your portfolio to showcase your abilities as a developer.
+
+3. **Give Credit:**
+   While you're free to use and adapt the code, I kindly request that you provide **credit to the original creator**.
+
+
+## 🛠 Installation & Set Up
+
+1. **Clone the Repository:**
+   ```bash
+     git clone https://github.com/vishwakarmanikhil/portfolio-v2-public.git
+     cd your-nextjs-project
+   ```
+2. **Install Dependencies:**
+   ```bash
+     npm install
+   ```
+3. **Start the Development Server:**
+   ```bash
+     npm run dev
+   ```
+Your Next.js app will be running at http://localhost:3000.
+
+
+
+## 🚀 Building and Running for Production
+
+1. Generate a Full Static Production Build:
+   ```bash
+     npm run build
+   ```
+2. Start the Production Server:
+   ```bash
+     npm start
+   ```
+   Your production-ready Next.js app will be running.
+3. Preview the Site Locally (Optional):
+   If you want to preview the production build locally:
+   ```bash
+     npm install -g serve
+     serve -s out
+   ```
+   Your site will be available at http://localhost:5000.
+   
+
+## Contact
+
+Connect with me on [LinkedIn](http://www.linkedin.com/in/vishwakarmanikhil), [Instagram](https://www.instagram.com/nikhil_vishwakarma__/), [Facebook](https://www.facebook.com/profile.php?id=100047871463007), or drop me an [Email](mailto:vnikhil3101@gmail.com).
