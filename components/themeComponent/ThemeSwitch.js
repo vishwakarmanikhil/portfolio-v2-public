@@ -26,10 +26,10 @@ export default function ThemeSwitch() {
       <div className='theme-changer__wrap relative'>
         <div className={'toggle__switch'} onClick={() => themeChangeHandler()}></div>
         <div className="relative inline-block">
-          <label className="relative flex justify-between items-center text-xl">
-            <input checked={isDarkMode} onChange={() => { }} type="checkbox" className="absolute left-1/2 -translate-x-1/2 w-full h-full peer appearance-none rounded-md" />
+          <div className="relative flex justify-between items-center text-xl">
+            <input id='themeSwitch' aria-label="themeSwitch" checked={isDarkMode} onChange={() => { }} type="checkbox" className="absolute left-1/2 -translate-x-1/2 w-full h-full peer appearance-none rounded-md" />
             <span className="w-16 h-8 flex items-center flex-shrink-0 p-1 bg-sky-400 rounded-full duration-300 ease-in-out peer-checked:bg-gray-500 after:w-6 after:h-6 after:bg-white after:rounded-full after:shadow-md after:duration-300 peer-checked:after:translate-x-8"></span>
-          </label>
+          </div>
           {!isDarkMode &&
             <span className="peer-checked:text-blue-600 text-gray-500 text-gray-500 w-6 h-6 absolute top-1 start-1 flex justify-center items-center pointer-events-none transition-colors ease-in-out duration-200">
               <div className='toggle__circle day'></div>
