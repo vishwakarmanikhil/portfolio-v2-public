@@ -1,0 +1,26 @@
+.header__sticky {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    z-index: 1000;
+    animation: stickySlideDown 0.5s ease forwards;
+}
+
+@keyframes stickySlideDown {
+    0% {
+        opacity: 0.7;
+        transform: translateY(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.logoImg {
+    height: 50px;
+    width: 50px;
+}

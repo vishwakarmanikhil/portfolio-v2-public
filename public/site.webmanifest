@@ -1,0 +1,31 @@
+{
+    "name": "Nikhil Vishwakarma",
+    "short_name": "Nikhil Vishwakarma",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#111827",
+    "background_color": "#1BA5E9",
+    "description": "Experienced software engineer dedicated to building, researching, and getting things done.",
+    "icons": [
+        {
+            "src": "https://ik.imagekit.io/vishwakarmanikhil/portfolio-v2/favicon/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "https://ik.imagekit.io/vishwakarmanikhil/portfolio-v2/favicon/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "https://ik.imagekit.io/vishwakarmanikhil/portfolio-v2/favicon/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://ik.imagekit.io/vishwakarmanikhil/portfolio-v2/favicon/mstile-150x150.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        }
+    ]
+}

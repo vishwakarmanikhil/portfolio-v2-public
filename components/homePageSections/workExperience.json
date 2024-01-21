@@ -1,0 +1,89 @@
+[
+    {
+        "key": "dummy-corporation",
+        "value": "Dummy Corporation",
+        "position": "Software Engineer",
+        "companyURL": "https://dummy-corporation.com",
+        "timeLine": {
+            "start": "Jan 2022",
+            "end": "Present"
+        },
+        "jobDescription": [
+            "Collaborated with cross-functional teams to create visually appealing and responsive user interfaces",
+            "Implemented frontend functionality, ensuring seamless integration with backend systems",
+            "Optimized website performance, resulting in a 20% reduction in page load times",
+            "Contributed to the development of a mobile application, translating designs into functional UI",
+            "Managed WordPress installations, ensuring security and optimal performance"
+        ],
+        "jobSkills": "JavaScript, React, Node.js, Git, Webpack, HTML, CSS, WordPress"
+    },
+    {
+        "key": "tech-innovators",
+        "value": "Tech Innovators",
+        "position": "Frontend Developer",
+        "companyURL": "https://tech-innovators.com",
+        "timeLine": {
+            "start": "Mar 2020",
+            "end": "Dec 2021"
+        },
+        "jobDescription": [
+            "Collaborated closely with UX/UI designers to implement visually stunning and user-friendly interfaces",
+            "Developed and maintained a reusable component library for efficient project development",
+            "Integrated frontend with backend APIs, ensuring data consistency and optimal functionality",
+            "Conducted competitor analysis, providing insights for product enhancements",
+            "Contributed to the optimization of web pages for better Core Web Vitals and SEO performance"
+        ],
+        "jobSkills": "JavaScript, ReactJS, Redux, Git, HTML, CSS, Figma"
+    },
+    {
+        "key": "code-masters",
+        "value": "Code Masters",
+        "position": "Full Stack Developer",
+        "companyURL": "https://code-masters.dev",
+        "timeLine": {
+            "start": "Sep 2019",
+            "end": "Feb 2021"
+        },
+        "jobDescription": [
+            "Developed end-to-end solutions, from database design to frontend implementation",
+            "Managed WordPress installations, ensuring reliability and security",
+            "Collaborated with a multidisciplinary team to deliver high-quality software products",
+            "Implemented complex features and functionality, optimizing for performance"
+        ],
+        "jobSkills": "JavaScript, ReactJS, NodeJS, Git, WordPress, SQL"
+    },
+    {
+        "key": "digital-solutions",
+        "value": "Digital Solutions Ltd",
+        "position": "UI/UX Developer",
+        "companyURL": "https://digital-solutions-ltd.com",
+        "timeLine": {
+            "start": "Jun 2018",
+            "end": "Nov 2019"
+        },
+        "jobDescription": [
+            "Translated design concepts into interactive and visually appealing user interfaces",
+            "Collaborated with backend developers to ensure seamless integration of frontend and backend",
+            "Contributed to the development of mobile-responsive designs for various projects",
+            "Conducted usability testing and implemented feedback for continuous improvement"
+        ],
+        "jobSkills": "JavaScript, HTML, CSS, ReactJS, AdobeXD"
+    },
+    {
+        "key": "web-experts",
+        "value": "Web Experts Inc",
+        "position": "Senior Frontend Developer",
+        "companyURL": "https://web-experts-inc.com",
+        "timeLine": {
+            "start": "Apr 2017",
+            "end": "Jul 2018"
+        },
+        "jobDescription": [
+            "Led the frontend development team in creating dynamic and user-friendly interfaces",
+            "Implemented advanced features and optimizations to enhance user experience",
+            "Conducted code reviews and mentored junior developers for skill development",
+            "Worked closely with stakeholders to understand and implement project requirements"
+        ],
+        "jobSkills": "JavaScript, ReactJS, Redux, Git, HTML, CSS, Webpack"
+    }
+]
