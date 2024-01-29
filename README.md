@@ -5,6 +5,8 @@
 
 Welcome to the second version of my portfolio, built with Next.js and Tailwind CSS. This platform serves as a showcase for my skills, work experience, and the projects I have worked on.
 
+![Portfolio Preview](https://ik.imagekit.io/vishwakarmanikhil/portfolio-v2/personal-portfolio-V2.png)
+
 
 ## Features
 
